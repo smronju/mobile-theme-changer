@@ -9,7 +9,7 @@
  * License: GPL2
  */
 
-define('MOBILE_THEME_SWITCHER', WP_PLUGIN_URL . '/' . plugin_basename( dirname(__FILE__) ) . '/' );
+// define('MOBILE_THEME_SWITCHER', WP_PLUGIN_URL . '/' . plugin_basename( dirname(__FILE__) ) . '/' );
 require_once('lib/Mobile_Detect.php');
 
 
